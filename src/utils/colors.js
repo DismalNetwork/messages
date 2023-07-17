@@ -1,0 +1,1 @@
+module.exports.Primary = '#ff56c4'
