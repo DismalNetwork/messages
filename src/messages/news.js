@@ -2,7 +2,7 @@ const { EmbedBuilder } = require('discord.js')
 const sendMessage = require('../utils/sendMessage')
 const { Primary } = require('../utils/colors')
 
-sendMessage('1095306739840208938', {
+sendMessage('1222496975757250581', {
   embeds: [
     new EmbedBuilder()
       .setTitle('News')

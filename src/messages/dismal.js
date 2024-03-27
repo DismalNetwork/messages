@@ -16,12 +16,12 @@ sendMessage('1094271667049599072', {
     ,
     new EmbedBuilder()
       .setTitle('Play Ranked')
-      .setDescription('To play our ranked gamemodes, you\'ll need to register first.\nHead to <#1094271667049599067> and follow the instructions there.\n\nNot played before? Read our beginner\'s guide in <#1094271667355779114>.')
+      .setDescription('To play our ranked gamemodes, you\'ll need to register first.\nHead to <#1222497043860160564> and follow the instructions there.\n\nNot played before? Read our beginner\'s guide in <#1094271667355779114>.')
       .setColor(Primary)
     ,
     new EmbedBuilder()
       .setTitle('Need Help?')
-      .setDescription('We\'re always here to help. Contact staff by making a ticket in <#1101559118092841030>.')
+      .setDescription('We\'re always here to help. Contact staff by making a ticket in <#1222497455065530419>.')
       .setColor(Primary)
     ,
     new EmbedBuilder()
